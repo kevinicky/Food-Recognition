@@ -1,0 +1,7 @@
+#Wed Jan 23 01:21:28 ICT 2019
+base.0=D\:\\Project\\Food Recognition\\android\\FoodRecognition\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Project\\Food Recognition\\android\\FoodRecognition\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
